@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Active.h</itemPath>
+      <itemPath>AttackController.h</itemPath>
+      <itemPath>Character.h</itemPath>
+      <itemPath>ConsoleController.h</itemPath>
+      <itemPath>Controller.h</itemPath>
+      <itemPath>Door.h</itemPath>
+      <itemPath>DungeonMap.h</itemPath>
+      <itemPath>Floor.h</itemPath>
+      <itemPath>GameEngine.h</itemPath>
+      <itemPath>Item.h</itemPath>
+      <itemPath>Lever.h</itemPath>
+      <itemPath>Passive.h</itemPath>
+      <itemPath>StanionaryController.h</itemPath>
+      <itemPath>Switch.h</itemPath>
+      <itemPath>Tile.h</itemPath>
+      <itemPath>Trap.h</itemPath>
+      <itemPath>Wall.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Active.cpp</itemPath>
+      <itemPath>AttackController.cpp</itemPath>
+      <itemPath>Character.cpp</itemPath>
+      <itemPath>ConsoleController.cpp</itemPath>
+      <itemPath>Controller.cpp</itemPath>
+      <itemPath>Door.cpp</itemPath>
+      <itemPath>DungeonMap.cpp</itemPath>
+      <itemPath>Floor.cpp</itemPath>
+      <itemPath>GameEngine.cpp</itemPath>
+      <itemPath>Item.cpp</itemPath>
+      <itemPath>Lever.cpp</itemPath>
+      <itemPath>Passive.cpp</itemPath>
+      <itemPath>StanionaryController.cpp</itemPath>
+      <itemPath>Switch.cpp</itemPath>
+      <itemPath>Tile.cpp</itemPath>
+      <itemPath>Trap.cpp</itemPath>
+      <itemPath>Wall.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>8</standard>
+          <warningLevel>2</warningLevel>
+        </ccTool>
+      </compileType>
+      <item path="Active.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Active.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AttackController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AttackController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ConsoleController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ConsoleController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Controller.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Controller.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Door.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Door.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DungeonMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DungeonMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Floor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Floor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GameEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GameEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Item.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Item.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lever.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lever.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Passive.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Passive.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StanionaryController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StanionaryController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Switch.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Switch.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Tile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Trap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Trap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Wall.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Wall.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Active.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Active.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AttackController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AttackController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ConsoleController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ConsoleController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Controller.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Controller.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Door.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Door.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DungeonMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DungeonMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Floor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Floor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GameEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GameEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Item.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Item.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lever.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lever.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Passive.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Passive.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StanionaryController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StanionaryController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Switch.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Switch.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Tile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Trap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Trap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Wall.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Wall.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="valgrind" type="1">
+      <toolsSet>
+        <compilerSet>GNU|GNU</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>8</standard>
+        </ccTool>
+      </compileType>
+      <item path="Active.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Active.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AttackController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AttackController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ConsoleController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ConsoleController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Controller.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Controller.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Door.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Door.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DungeonMap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DungeonMap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Floor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Floor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GameEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GameEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Item.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Item.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lever.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lever.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Passive.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Passive.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="StanionaryController.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="StanionaryController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Switch.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Switch.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Tile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Trap.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Trap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Wall.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Wall.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

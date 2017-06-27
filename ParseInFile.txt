@@ -1,0 +1,6 @@
+Character & 100 20 ConsoleController 2 10
+Character $ 20 10 AttackController 2 2
+Switch 5 5 Door 8 1
+Switch 10 3 Door 8 11
+Item Armingsword 0 2
+Item Fullplatearmour 9 5
