@@ -1,0 +1,63 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.elf
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/Praktikum1Beans/build/
+/Praktikum1Beans/dist/
+/DungeonCrawler/build/
+/DungeonCrawler/dist/
+/DungeonCrawler/Backup/build/
+/DungeonCrawler/Backup/dist/
+/DungeonCrawler/DungeonCrawlerBackup/build/
+/DungeonCrawler/DungeonCrawlerBackup/dist/
+/MainTest/dist/
+/MainTest/build/
+/termin3/SNDB4/
+/termin4/SNDB4/
+/termin5/SNDB4/
+/termin6/SNDB4/
+
+#snavigator
+*.proj
+
+
+#valgrind
+vgcore.*
+/FlugTicketSystem/dist/
+/FlugTicketSystem/build/
+
+#Aufgaben
+*.pdf
+*.jpg
+*.jpeg
+*.zip
+*.tag.gz
+/Elfensagen/build/
+/Elfensagen/dist/
+/Zensus/build/
+/Zensus/dist/
